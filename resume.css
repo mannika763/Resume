@@ -1,0 +1,57 @@
+body{
+    background-color: ghostwhite;
+}
+.box-shadow-full{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+
+}
+.skills-mf span{
+    color: #4e4e4e;
+    padding-left: 10px;
+}
+.box-shadow-full{
+      background-color: white;
+    position: relative;
+    padding: 3rem 1.25rem;
+    z-index: 2;
+    margin-bottom: 3rem;
+    box-shadow: 5px 10px 7px 25px rgba(211, 211, 211,0.5);  
+}
+.progress{
+    height: 25px;
+    margin-left: 5px;
+}
+.title-left{
+    position: relative;
+    font-size: 4rem;
+}
+.title-left:before{
+    content: '';
+    position: absolute;
+    height: 4px;
+    background-color: #0078ff;
+    width: 175px;
+    bottom: -12px;
+}
+img{
+    width: 200px;
+    height: 225px;
+}
+.title{
+        font-weight: 600;
+    color: #1e1e1e;
+    font-size: 2.3rem;
+    padding-left: 10px;
+}
+.title1{
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 1.3rem;
+}
+.image{
+    padding: 1rem;
+}
+.about-info{
+    padding: 1rem;
+}
